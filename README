@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5213
+
+I've never found a good omni-completing plugin for AutoHotkey script. So I write this plugin to help me developing AHK script. This project is on GitHub: https://github.com/huleiak47/vim-AHKcomplete, enjoy it.
+
+This plugin need +python feature.
